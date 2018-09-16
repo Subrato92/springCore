@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/activation-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/asm-attrs-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/aspectjweaver-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-email-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-io-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/commons-pool-1.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/dumbster-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/easymock-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/hibernate-commons-annotations-3.0.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/hibernate-entitymanager-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/hibernate-search-3.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/hibernate-validator-4.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/icu4j-2.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/jaxb-impl-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/lucene-core-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/lucene-highlighter-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/mysql-connector-java-5.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/mysql-connector-java-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/quartz-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-jdbc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-modules-validation-0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-orm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-tx-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/spring-webmvc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/xalan-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/xercesImpl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/xml-apis-1.3.02.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/1587999/Downloads/ScopeSpringHibernate Spring Core/xom-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
